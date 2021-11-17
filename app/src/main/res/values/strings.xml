@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">VMate</string>
+    <string name="text">new</string>
+    <string name="button">start</string>
+    <string name="fbimage">fbimage</string>
+    <string-array name="video_size">
+        <item>720 p</item>
+        <item>480p</item>
+        <item>360p</item>
+        <item>270p</item>
+        <item>180p</item>
+        <item>mp3 128 kbps</item>
+
+    </string-array>
+</resources>
